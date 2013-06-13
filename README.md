@@ -1,4 +1,4 @@
-Android layout fixes for the Galaxy 3 GT-I5800 - LDPI device
+Android layout fixes for the Galaxy 3 GT-I5800
 ==================================
 
 branch cm-10.1 - for CyanogenMod 10.1 - experimental build
